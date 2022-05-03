@@ -1,0 +1,44 @@
+{
+  "id": "3373547",
+  "name": "vue-piece-tree",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11487977",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "544650",
+      "name": "ios-folder-outline",
+      "font_class": "iosfolderoutline",
+      "unicode": "e7c9",
+      "unicode_decimal": 59337
+    },
+    {
+      "icon_id": "544716",
+      "name": "ios-paper-outline",
+      "font_class": "iospaperoutline",
+      "unicode": "e806",
+      "unicode_decimal": 59398
+    },
+    {
+      "icon_id": "9457365",
+      "name": "ios-add",
+      "font_class": "ios-add",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "11918198",
+      "name": "ios-remove",
+      "font_class": "ios-remove",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}
